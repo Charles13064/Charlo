@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charles Muhanji
+- 👋 Hi, I’m Charles Muhanji
 - 👀 I’m interested in coding and system management
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on System development
